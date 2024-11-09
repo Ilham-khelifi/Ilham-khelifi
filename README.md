@@ -2,8 +2,10 @@ Hi there! 👋
 -  I'm ILHAM a software engineering student with a passion for building efficient and innovative solutions & Web Developer..
 - 🌱  currently an USTHB student (L3)
 - 💞️ Feel free to explore my projects, and don't hesitate to reach out!
-Connect with me:
-https://www.linkedin.com/in/%20ilham-khelifi-8388b723b
+- 📫 How to reach me ilham1khelifi@gmail.com
+
+
+  
 Languages and Tools:
 c git java javascript linux  python php sql laraval django html css 
 <!---
