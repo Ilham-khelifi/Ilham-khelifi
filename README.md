@@ -24,7 +24,6 @@ Languages and Tools:
 </p>
 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ilham-khelifi&layout=compact)
 
 <!---
 Ilham-khelifi/Ilham-khelifi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
