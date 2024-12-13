@@ -27,7 +27,8 @@ Languages and Tools:
 ## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BQENIeBfTQzuAKIvxmMzZUA%3D%3D/)
-
+[![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail)](mailto:ilham1khelifi@gmail.com)
+[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord)](https://discord.com/users/__ilham__/)
 <!---
 Ilham-khelifi/Ilham-khelifi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
